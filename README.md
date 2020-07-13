@@ -12,7 +12,7 @@ You can install the released version of m119r from [CRAN](https://CRAN.R-project
 
 ``` r
 install.packages("devtools")
-devtools::install_github("m119r")
+devtools::install_github("byuidatascience/m119r")
 ```
 
 ## Example
